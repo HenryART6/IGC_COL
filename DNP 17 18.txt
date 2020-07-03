@@ -23,6 +23,26 @@ IGC-FEM
 	80 Cualitativas  = Encuestas FEM
 }
 
+
+
+Los 12 pilares de la competitividad
+{
+	1.-Primer pilar: Instituciones.
+	2.- Segundo pilar: Infraestructura.
+	3.- Tercer pilar: Entorno macroeconómico.
+	4.-Cuarto pilar: Salud y educación primaria.
+	5.- Quinto pilar: Educación superior y entrenamiento.
+	6.- Sexto pilar: Eficiencia de los mercados de bienes.
+	7.- Pilar séptimo: Eficiencia del mercado laboral.
+	8.- Octavo pilar: Desarrollo del mercado financiero.
+	9.-Noveno pilar: Disponibilidad tecnológica.
+	10.-Décimo pilar: Tamaño del mercado.
+	11.- Décimo primer pilar: Sofisticación de los negocios.
+	12- Décimo segundo pilar: Innovación.
+}
+
+
+
 ICA-IMD
 {
 	Cualitativa 	118 (45%)
