@@ -1,3 +1,6 @@
+Este documento contiene informacion sobre "CO-GIN-F173-Documento-para-Estudio"
+No forma parte de la base de datos, solo se usa a modo de glosario y como apuntes a resaltar del documento
+
 DPN: Departamento Nacional de Planeacion.
 IGC: Indice Global de Competitividad.
 FEM: Foro Economico Mundial.
