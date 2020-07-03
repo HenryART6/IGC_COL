@@ -1,0 +1,45 @@
+DPN: Departamento Nacional de Planeacion.
+IGC: Indice Global de Competitividad.
+FEM: Foro Economico Mundial.
+RGC: Reporte Global De Competitividad.
+FMI: Fondo Monetario Internacional.
+ICA: Indice de Competitividad Agregada
+IMD: International Institute for Management Developmen
+
+IGC-FEM
+{
+	Colombia paso de 4,30/7 a 4,29/7
+	bajo del puesto 61 a 66
+	supero al 51,8% de latinoamerica.
+
+	Puesto 1 latam   = Chile
+	Puesto 1 mundial = Suiza 
+
+	RGC tiene 112 variables. 
+	32 Cuantitativas = datos duros.
+	80 Cualitativas  = Encuestas FEM
+}
+
+ICA-IMD
+{
+	Cualitativa 	118 (45%)
+	Cuantitativa 	143 (55%)
+	Total 		261
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
